@@ -1,0 +1,701 @@
+id,idade,vulnerabilidade,raiz_inicial,fruto_final,probabilidade_fruto
+176537768489614,14,2,Baixo Peso ao Nascer,Depressao,0.0769
+176537768515454,3,3,Baixo Peso ao Nascer,Ansiedade Generalizada,0.0769
+176537768560688,8,5,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768485428,4,3,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768507683,11,2,Altas Habilidades / Superdotação,Distimia,0.0837
+176537768534914,8,3,TDAH,Ansiedade Generalizada,0.1416
+176537768484451,6,1,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768486633,3,5,Prematuridade,Depressao,0.0771
+176537768536796,17,1,Síndrome de Kinnefelter,Depressao,0.1255
+176537768466603,3,2,TEA,Ansiedade Generalizada,0.1149
+176537768548979,1,5,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768543455,1,2,Síndrome de Dawn,Ansiedade Generalizada,0.0769
+176537768482146,18,4,Altas Habilidades / Superdotação,Depressao,0.0805
+176537768485945,1,2,TEA,Ansiedade Generalizada,0.127
+176537768517007,1,4,TEA,Ansiedade Generalizada,0.1232
+176537768482945,11,1,Baixo Peso ao Nascer,Depressao,0.0769
+176537768535721,4,1,Prematuridade,Depressao,0.0851
+176537768558716,1,3,Síndrome de Dawn,Ansiedade Generalizada,0.0769
+176537768551595,4,1,TDAH,Ansiedade Generalizada,0.1416
+176537768544313,1,4,Desenvolvimento neurobiológico atrasado,Depressao,0.0863
+176537768545232,4,5,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768562583,1,4,Síndrome de Dawn,Ansiedade Generalizada,0.0769
+176537768556930,2,2,Síndrome de Kinnefelter,Isolamento Social,0.1165
+176537768562488,1,4,Síndrome de Dawn,Ansiedade Generalizada,0.0769
+176537768468291,1,1,Síndrome de Dawn,Ansiedade Generalizada,0.0769
+176537768561385,8,2,Baixo Peso ao Nascer,Distimia,0.0769
+176537768557385,13,3,Síndrome de Kinnefelter,Depressao,0.1238
+176537768561936,7,4,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768549390,22,2,Síndrome de Kinnefelter,Depressao,0.1006
+176537768496029,1,1,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768480030,1,3,Síndrome de Dawn,Ansiedade Generalizada,0.0769
+176537768505466,7,3,Síndrome de Kinnefelter,Isolamento Social,0.0824
+176537768477741,1,2,TEA,Ansiedade Generalizada,0.1204
+176537768551658,5,2,TDAH,Ansiedade Generalizada,0.1416
+176537768494007,8,5,Altas Habilidades / Superdotação,Distimia,0.0888
+176537768471700,1,1,Baixo Peso ao Nascer,Ansiedade Generalizada,0.0769
+176537768516055,9,5,Dislexia,Problemas de Autoestima,0.1083
+176537768492906,8,5,TDAH,Ansiedade Generalizada,0.1416
+176537768510098,11,2,TDAH,Distimia,0.0832
+176537768466194,2,3,TEA,Ansiedade Generalizada,0.116
+176537768495142,6,1,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768521707,1,4,Desenvolvimento neurobiológico atrasado,Depressao,0.0819
+176537768477410,16,5,Síndrome de Kinnefelter,Distimia,0.0776
+176537768468689,1,1,TEA,Ansiedade Generalizada,0.0954
+176537768494061,1,5,Desenvolvimento neurobiológico atrasado,Depressao,0.0848
+176537768558090,7,1,TDAH,Distimia,0.0832
+176537768494920,29,3,Baixo Peso ao Nascer,Distimia,0.0769
+176537768542213,3,5,TDAH,Ansiedade Generalizada,0.1382
+176537768469104,1,2,TEA,Ansiedade Generalizada,0.1276
+176537768506584,18,5,Síndrome de Kinnefelter,Depressao,0.1237
+176537768539778,9,1,Altas Habilidades / Superdotação,Distimia,0.096
+176537768550323,5,5,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768521491,15,1,Síndrome de Kinnefelter,Depressao,0.1242
+176537768556196,3,1,Síndrome de Kinnefelter,Isolamento Social,0.1265
+176537768557826,1,1,Síndrome de Dawn,Ansiedade Generalizada,0.0769
+176537768539996,3,5,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768546916,3,3,Dislexia,Problemas de Autoestima,0.1416
+176537768501350,1,3,TEA,Ansiedade Generalizada,0.1263
+176537768560273,12,2,TDAH,Ansiedade Generalizada,0.1388
+176537768525865,1,3,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768546332,1,1,Desenvolvimento neurobiológico atrasado,Distimia,0.0771
+176537768546826,18,2,Síndrome de Kinnefelter,Depressao,0.1112
+176537768495331,4,1,Baixo Peso ao Nascer,Distimia,0.0769
+176537768561146,1,5,Síndrome de Dawn,Ansiedade Generalizada,0.0769
+176537768492774,12,1,Prematuridade,Depressao,0.0954
+176537768521255,1,2,Desenvolvimento neurobiológico atrasado,Depressao,0.081
+176537768554524,5,4,TEA,Distimia,0.0925
+176537768539721,1,2,Desenvolvimento neurobiológico atrasado,Distimia,0.0769
+176537768503148,2,2,Prematuridade,Distimia,0.0774
+176537768512089,1,3,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768499712,25,5,Prematuridade,Depressao,0.0782
+176537768468829,1,5,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768512109,3,3,Prematuridade,Distimia,0.0771
+176537768550304,5,1,TEA,Ansiedade Generalizada,0.1212
+176537768561554,5,4,Altas Habilidades / Superdotação,Distimia,0.0853
+176537768481959,23,3,Síndrome de Kinnefelter,Depressao,0.0982
+176537768529762,4,4,TEA,Ansiedade Generalizada,0.0855
+176537768546455,1,5,TEA,Ansiedade Generalizada,0.123
+176537768512570,17,1,Baixo Peso ao Nascer,Distimia,0.0769
+176537768534428,22,1,Prematuridade,Distimia,0.0772
+176537768493696,1,2,Síndrome de Kinnefelter,Isolamento Social,0.0965
+176537768502085,3,4,TEA,Ansiedade Generalizada,0.1273
+176537768545911,8,2,Altas Habilidades / Superdotação,Distimia,0.0961
+176537768564630,8,4,Prematuridade,Depressao,0.1249
+176537768526087,1,4,Síndrome de Dawn,Ansiedade Generalizada,0.0769
+176537768499516,11,5,Prematuridade,Distimia,0.0771
+176537768516009,1,5,Síndrome de Dawn,Ansiedade Generalizada,0.0769
+176537768502821,1,5,Altas Habilidades / Superdotação,Distimia,0.0783
+176537768539344,12,2,TDAH,Ansiedade Generalizada,0.1416
+176537768541401,3,5,TEA,Ansiedade Generalizada,0.0997
+176537768543808,1,1,TEA,Ansiedade Generalizada,0.122
+176537768503515,1,3,Síndrome de Dawn,Ansiedade Generalizada,0.0769
+176537768559101,4,4,Prematuridade,Distimia,0.077
+176537768539409,3,2,TDAH,Ansiedade Generalizada,0.1416
+176537768510044,5,4,TEA,Ansiedade Generalizada,0.1222
+176537768515744,25,4,Prematuridade,Distimia,0.0771
+176537768542745,1,2,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768489381,1,5,TDAH,Ansiedade Generalizada,0.1399
+176537768489806,20,5,Síndrome de Kinnefelter,Depressao,0.1135
+176537768496761,9,3,Dislexia,Problemas de Autoestima,0.1414
+176537768520692,6,5,Prematuridade,Distimia,0.081
+176537768515291,1,4,Síndrome de Dawn,Ansiedade Generalizada,0.0769
+176537768557704,7,2,TEA,Ansiedade Generalizada,0.1144
+176537768485443,1,2,TDAH,Distimia,0.0805
+176537768552437,1,2,Desenvolvimento neurobiológico atrasado,Depressao,0.0805
+176537768528793,1,1,Síndrome de Dawn,Ansiedade Generalizada,0.0769
+176537768558993,6,1,TEA,Ansiedade Generalizada,0.0859
+176537768493540,20,3,Baixo Peso ao Nascer,Distimia,0.0769
+176537768521245,8,1,TDAH,Distimia,0.0832
+176537768529425,5,3,TEA,Distimia,0.0818
+176537768520172,1,2,TEA,Ansiedade Generalizada,0.1097
+176537768502757,8,5,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768539037,16,2,Prematuridade,Depressao,0.0927
+176537768564181,12,5,Prematuridade,Depressao,0.0977
+176537768482663,11,5,TDAH,Distimia,0.0832
+176537768485383,2,2,Desenvolvimento neurobiológico atrasado,Depressao,0.0779
+176537768559454,6,5,Altas Habilidades / Superdotação,Distimia,0.0898
+176537768533679,8,5,Dislexia,Problemas de Autoestima,0.1103
+176537768518270,3,4,TEA,Ansiedade Generalizada,0.1241
+176537768509011,1,2,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768474263,13,3,Síndrome de Kinnefelter,Depressao,0.1242
+176537768565167,1,4,TEA,Ansiedade Generalizada,0.1276
+176537768484351,7,3,TEA,Ansiedade Generalizada,0.1182
+176537768476326,1,2,Desenvolvimento neurobiológico atrasado,Depressao,0.0849
+176537768481646,4,5,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768537122,5,1,Dislexia,Problemas de Autoestima,0.1407
+176537768542758,33,3,Prematuridade,Depressao,0.0832
+176537768519759,6,5,TDAH,Ansiedade Generalizada,0.1416
+176537768527514,6,5,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768480940,16,3,Baixo Peso ao Nascer,Depressao,0.0769
+176537768554602,3,4,TDAH,Distimia,0.0822
+176537768551612,1,1,Desenvolvimento neurobiológico atrasado,Distimia,0.0778
+176537768514766,7,4,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768479637,1,4,TDAH,Ansiedade Generalizada,0.1416
+176537768526166,11,5,Baixo Peso ao Nascer,Depressao,0.0769
+176537768471319,31,2,Prematuridade,Depressao,0.078
+176537768493976,1,2,Síndrome de Dawn,Distimia,0.0769
+176537768565342,3,1,TEA,Distimia,0.1008
+176537768528348,1,3,Desenvolvimento neurobiológico atrasado,Depressao,0.0864
+176537768537509,4,5,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768550398,1,4,Desenvolvimento neurobiológico atrasado,Depressao,0.0876
+176537768518981,1,4,Síndrome de Dawn,Ansiedade Generalizada,0.0769
+176537768562421,3,1,Desenvolvimento neurobiológico atrasado,Distimia,0.0771
+176537768520070,31,1,Prematuridade,Depressao,0.0864
+176537768537239,6,5,TDAH,Ansiedade Generalizada,0.1351
+176537768563941,32,1,Prematuridade,Distimia,0.0771
+176537768475726,25,4,Prematuridade,Depressao,0.0791
+176537768540348,2,3,TEA,Distimia,0.085
+176537768561536,23,3,Baixo Peso ao Nascer,Distimia,0.0769
+176537768514757,9,5,Dislexia,Problemas de Autoestima,0.1349
+176537768476370,1,2,TEA,Distimia,0.0772
+176537768566340,27,5,Baixo Peso ao Nascer,Distimia,0.0769
+176537768471282,2,2,Desenvolvimento neurobiológico atrasado,Depressao,0.0899
+176537768569575,1,5,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768507679,16,3,Síndrome de Kinnefelter,Depressao,0.1249
+176537768498861,10,1,TDAH,Ansiedade Generalizada,0.1391
+176537768567311,4,5,TDAH,Distimia,0.083
+176537768549206,1,2,Desenvolvimento neurobiológico atrasado,Distimia,0.0777
+176537768526669,5,4,Baixo Peso ao Nascer,Distimia,0.0769
+176537768567092,29,4,Prematuridade,Distimia,0.0777
+176537768522925,1,3,TEA,Ansiedade Generalizada,0.1188
+176537768556819,1,5,Síndrome de Dawn,Ansiedade Generalizada,0.0769
+176537768501704,1,3,Síndrome de Dawn,Ansiedade Generalizada,0.0769
+176537768496207,3,3,Desenvolvimento neurobiológico atrasado,Distimia,0.077
+176537768471025,20,1,Prematuridade,Depressao,0.0782
+176537768492910,33,5,Baixo Peso ao Nascer,Depressao,0.0769
+176537768491304,7,5,TDAH,Ansiedade Generalizada,0.1416
+176537768538062,1,3,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768478084,15,2,Síndrome de Kinnefelter,Depressao,0.125
+176537768546434,9,5,Síndrome de Kinnefelter,Depressao,0.1242
+176537768543931,1,2,Desenvolvimento neurobiológico atrasado,Depressao,0.0862
+176537768522440,27,5,Baixo Peso ao Nascer,Distimia,0.0769
+176537768559247,11,5,Prematuridade,Depressao,0.0996
+176537768496866,5,4,Síndrome de Kinnefelter,Isolamento Social,0.1259
+176537768553651,12,1,Baixo Peso ao Nascer,Distimia,0.0769
+176537768473674,7,1,Baixo Peso ao Nascer,Distimia,0.0769
+176537768509586,17,1,Síndrome de Kinnefelter,Depressao,0.1237
+176537768538840,3,3,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768501995,2,3,Síndrome de Dawn,Distimia,0.0769
+176537768489497,12,3,Baixo Peso ao Nascer,Distimia,0.0769
+176537768527831,5,2,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768558648,5,1,TDAH,Distimia,0.0832
+176537768508552,25,1,Baixo Peso ao Nascer,Distimia,0.0769
+176537768509084,8,3,TDAH,Distimia,0.0832
+176537768484229,1,1,Desenvolvimento neurobiológico atrasado,Distimia,0.077
+176537768501493,1,3,Desenvolvimento neurobiológico atrasado,Depressao,0.0909
+176537768545630,1,1,Síndrome de Dawn,Ansiedade Generalizada,0.0769
+176537768570889,11,3,TDAH,Distimia,0.081
+176537768522874,7,2,Altas Habilidades / Superdotação,Isolamento Social,0.1123
+176537768480906,17,3,Síndrome de Kinnefelter,Depressao,0.1252
+176537768524272,24,4,Baixo Peso ao Nascer,Distimia,0.0769
+176537768547676,23,2,Prematuridade,Distimia,0.077
+176537768552705,10,3,Dislexia,Distimia,0.0792
+176537768503333,7,3,Síndrome de Williams-Beuren,Distimia,0.0769
+176537768489504,1,4,Altas Habilidades / Superdotação,Distimia,0.0772
+176537768533619,2,5,TDAH,Distimia,0.0825
+176537768538796,10,5,Síndrome de Williams-Beuren,Depressao,0.0769
+176537768518212,21,3,Prematuridade,Distimia,0.0772
+176537768546827,22,3,Prematuridade,Depressao,0.0869
+176537768530327,33,3,Prematuridade,Distimia,0.0774
+176537768545213,29,5,Baixo Peso ao Nascer,Distimia,0.0769
+176537768535763,5,5,TEA,Ansiedade Generalizada,0.124
+176537768544007,4,4,TDAH,Ansiedade Generalizada,0.1256
+176537768481815,1,4,TEA,Ansiedade Generalizada,0.1106
+176537768526995,10,5,Síndrome de Kinnefelter,Ansiedade Social,0.1243
+176537768493789,10,4,Dislexia,Problemas de Autoestima,0.131
+176537768478671,16,1,Síndrome de Kinnefelter,Distimia,0.0851
+176537768564319,1,2,Desenvolvimento neurobiológico atrasado,Distimia,0.0776
+176537768534912,7,2,TEA,Distimia,0.1093
+176537768535319,18,2,Síndrome de Kinnefelter,Depressao,0.1218
+176537768482635,10,5,Dislexia,Problemas de Autoestima,0.1317
+176537768549249,1,1,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768516361,6,2,TDAH,Ansiedade Generalizada,0.1416
+176537768547065,6,3,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768570929,23,3,Baixo Peso ao Nascer,Depressao,0.0769
+176537768567785,2,2,Prematuridade,Depressao,0.0849
+176537768569190,8,2,Dislexia,Problemas de Autoestima,0.1363
+176537768491938,3,1,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768489851,9,1,TDAH,Ansiedade Generalizada,0.1416
+176537768476387,1,5,Desenvolvimento neurobiológico atrasado,Distimia,0.0774
+176537768555898,19,2,Síndrome de Kinnefelter,Depressao,0.0928
+176537768508429,16,3,TDAH,Distimia,0.0799
+176537768482871,17,2,Síndrome de Kinnefelter,Depressao,0.1215
+176537768515338,29,1,Baixo Peso ao Nascer,Depressao,0.0769
+176537768543178,8,4,Baixo Peso ao Nascer,Ansiedade Generalizada,0.0769
+176537768542950,25,3,Prematuridade,Depressao,0.085
+176537768525884,1,5,TEA,Distimia,0.0802
+176537768532126,12,3,Baixo Peso ao Nascer,Depressao,0.0769
+176537768514439,6,2,Dislexia,Problemas de Autoestima,0.1328
+176537768528791,1,1,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768533852,1,1,TEA,Ansiedade Generalizada,0.1204
+176537768481095,5,1,Altas Habilidades / Superdotação,Distimia,0.0893
+176537768571605,5,1,Dislexia,Problemas de Autoestima,0.0943
+176537768521253,1,5,Síndrome de Dawn,Ansiedade Generalizada,0.0769
+176537768542995,4,4,Dislexia,Problemas de Autoestima,0.134
+176537768520871,3,3,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768489186,8,5,TDAH,Ansiedade Generalizada,0.1416
+176537768550396,1,5,TEA,Ansiedade Generalizada,0.1149
+176537768511693,7,5,TDAH,Ansiedade Generalizada,0.1416
+176537768509506,6,1,Dislexia,Problemas de Autoestima,0.1416
+176537768476501,35,2,Baixo Peso ao Nascer,Distimia,0.0769
+176537768506809,16,4,Prematuridade,Distimia,0.0822
+176537768565549,8,1,TDAH,Ansiedade Generalizada,0.1416
+176537768560093,8,5,Dislexia,Problemas de Autoestima,0.1094
+176537768484486,9,4,Síndrome de Kinnefelter,Depressao,0.1242
+176537768536619,9,3,Dislexia,Problemas de Autoestima,0.141
+176537768500183,17,1,Síndrome de Kinnefelter,Depressao,0.1256
+176537768572765,15,5,Síndrome de Kinnefelter,Depressao,0.1242
+176537768556159,11,1,Altas Habilidades / Superdotação,Isolamento Social,0.124
+176537768552381,2,5,TEA,Ansiedade Generalizada,0.121
+176537768537599,30,5,Prematuridade,Depressao,0.0847
+176537768564858,11,2,Baixo Peso ao Nascer,Distimia,0.0769
+176537768557293,3,4,TEA,Ansiedade Generalizada,0.1214
+176537768501884,3,3,Dislexia,Problemas de Autoestima,0.127
+176537768493173,1,3,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768531402,1,1,Síndrome de Dawn,Ansiedade Generalizada,0.0769
+176537768534166,1,3,Desenvolvimento neurobiológico atrasado,Distimia,0.0772
+176537768511793,1,1,Síndrome de Dawn,Ansiedade Generalizada,0.0769
+176537768544201,8,5,TDAH,Ansiedade Generalizada,0.1382
+176537768532258,1,4,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768505962,3,1,TEA,Ansiedade Generalizada,0.0982
+176537768539244,13,3,Síndrome de Kinnefelter,Depressao,0.122
+176537768491950,7,4,Altas Habilidades / Superdotação,Isolamento Social,0.1144
+176537768477516,2,2,Síndrome de Dawn,Ansiedade Generalizada,0.0769
+176537768500790,1,5,Desenvolvimento neurobiológico atrasado,Distimia,0.0769
+176537768540028,9,3,Baixo Peso ao Nascer,Distimia,0.0769
+176537768511394,3,2,TEA,Distimia,0.0786
+176537768500874,31,1,Baixo Peso ao Nascer,Distimia,0.0769
+176537768559466,9,1,Síndrome de Williams-Beuren,Depressao,0.0769
+176537768558233,6,3,TEA,Ansiedade Generalizada,0.1178
+176537768491231,3,2,TEA,Ansiedade Generalizada,0.1215
+176537768512567,1,4,Síndrome de Dawn,Ansiedade Generalizada,0.0769
+176537768550409,14,2,TDAH,Ansiedade Generalizada,0.1359
+176537768479972,1,2,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768524149,3,1,Dislexia,Problemas de Autoestima,0.14
+176537768564791,3,1,Desenvolvimento neurobiológico atrasado,Depressao,0.0796
+176537768517164,2,1,Síndrome de Dawn,Ansiedade Generalizada,0.0769
+176537768494244,1,5,Síndrome de Dawn,Ansiedade Generalizada,0.0769
+176537768508971,1,2,Síndrome de Dawn,Ansiedade Generalizada,0.0769
+176537768564283,7,3,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768544035,10,5,Síndrome de Kinnefelter,Ansiedade Social,0.11
+176537768494064,1,3,Síndrome de Dawn,Ansiedade Generalizada,0.0769
+176537768543692,6,2,TEA,Ansiedade Generalizada,0.1213
+176537768568264,4,2,Desenvolvimento neurobiológico atrasado,Depressao,0.0864
+176537768518701,6,3,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768526639,1,2,TEA,Distimia,0.0852
+176537768523069,2,1,Prematuridade,Depressao,0.0838
+176537768549179,1,5,Síndrome de Dawn,Ansiedade Generalizada,0.0769
+176537768506240,6,3,Dislexia,Problemas de Autoestima,0.1352
+176537768484321,20,2,Prematuridade,Distimia,0.0771
+176537768485984,8,4,TEA,Depressao,0.117
+176537768523017,2,5,Síndrome de Dawn,Distimia,0.0769
+176537768481488,21,4,Prematuridade,Distimia,0.0779
+176537768513147,10,2,Síndrome de Kinnefelter,Ansiedade Social,0.1243
+176537768524350,1,5,Desenvolvimento neurobiológico atrasado,Distimia,0.0771
+176537768498403,1,4,TEA,Ansiedade Generalizada,0.1271
+176537768519659,5,5,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768496108,2,4,Dislexia,Distimia,0.0793
+176537768476363,4,3,TEA,Ansiedade Generalizada,0.1242
+176537768554893,19,1,Síndrome de Kinnefelter,Depressao,0.1197
+176537768528397,1,1,Desenvolvimento neurobiológico atrasado,Depressao,0.0862
+176537768503867,18,5,Síndrome de Kinnefelter,Depressao,0.1229
+176537768496141,8,3,Altas Habilidades / Superdotação,Isolamento Social,0.0797
+176537768547162,1,3,Síndrome de Dawn,Ansiedade Generalizada,0.0769
+176537768488821,1,1,Síndrome de Dawn,Ansiedade Generalizada,0.0769
+176537768515771,12,2,Prematuridade,Distimia,0.0813
+176537768501232,1,2,Desenvolvimento neurobiológico atrasado,Depressao,0.0802
+176537768547166,7,1,TEA,Distimia,0.1075
+176537768508955,2,3,Desenvolvimento neurobiológico atrasado,Distimia,0.0775
+176537768547930,4,2,TEA,Ansiedade Generalizada,0.1244
+176537768546276,12,5,Síndrome de Kinnefelter,Depressao,0.1242
+176537768541294,1,1,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768479226,15,1,Prematuridade,Distimia,0.0801
+176537768512701,23,2,Baixo Peso ao Nascer,Depressao,0.0769
+176537768532696,1,4,TEA,Distimia,0.0804
+176537768564938,4,2,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768563127,20,2,Síndrome de Kinnefelter,Depressao,0.1052
+176537768555970,32,1,Baixo Peso ao Nascer,Distimia,0.0769
+176537768485704,27,3,Prematuridade,Depressao,0.0786
+176537768480233,19,4,Prematuridade,Depressao,0.0815
+176537768561424,2,2,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768481256,1,5,TEA,Ansiedade Generalizada,0.1043
+176537768493678,7,5,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768544891,1,3,Síndrome de Dawn,Ansiedade Generalizada,0.0769
+176537768515086,7,3,Altas Habilidades / Superdotação,Distimia,0.0912
+176537768564143,15,1,Dislexia,Problemas de Autoestima,0.0864
+176537768537167,18,1,Síndrome de Kinnefelter,Depressao,0.1258
+176537768553210,4,2,Prematuridade,Distimia,0.078
+176537768530754,1,1,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768526690,8,3,Síndrome de Kinnefelter,Ansiedade Social,0.1242
+176537768563025,19,4,Prematuridade,Depressao,0.1087
+176537768575312,1,4,Síndrome de Dawn,Ansiedade Generalizada,0.0769
+176537768542210,3,5,TEA,Ansiedade Generalizada,0.1188
+176537768555820,5,3,Altas Habilidades / Superdotação,Distimia,0.088
+176537768568491,1,4,TEA,Ansiedade Generalizada,0.1238
+176537768549627,10,2,Síndrome de Williams-Beuren,Depressao,0.0769
+176537768529608,6,2,Altas Habilidades / Superdotação,Distimia,0.0906
+176537768509703,2,1,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768511883,4,2,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768570043,5,4,TEA,Ansiedade Generalizada,0.1207
+176537768572186,27,2,Baixo Peso ao Nascer,Depressao,0.0769
+176537768563866,4,3,TEA,Distimia,0.0965
+176537768485937,1,2,TEA,Distimia,0.0882
+176537768540784,2,4,TEA,Distimia,0.0886
+176537768497264,14,5,Prematuridade,Distimia,0.0798
+176537768573937,1,5,Síndrome de Dawn,Ansiedade Generalizada,0.0769
+176537768492999,9,4,Síndrome de Williams-Beuren,Depressao,0.0769
+176537768546173,3,1,Desenvolvimento neurobiológico atrasado,Depressao,0.0853
+176537768549737,1,4,TEA,Distimia,0.0847
+176537768561439,6,4,TDAH,Ansiedade Generalizada,0.1416
+176537768497418,12,5,TDAH,Distimia,0.0826
+176537768483109,11,3,Dislexia,Problemas de Autoestima,0.1323
+176537768480093,13,3,Dislexia,Problemas de Autoestima,0.1282
+176537768563745,10,1,Baixo Peso ao Nascer,Distimia,0.0769
+176537768515504,4,1,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768501215,1,3,Síndrome de Dawn,Ansiedade Generalizada,0.0769
+176537768576275,2,2,Desenvolvimento neurobiológico atrasado,Depressao,0.0932
+176537768564110,2,1,Desenvolvimento neurobiológico atrasado,Distimia,0.0775
+176537768481964,13,2,TDAH,Ansiedade Generalizada,0.1145
+176537768497798,4,5,Desenvolvimento neurobiológico atrasado,Depressao,0.0792
+176537768550116,23,3,Prematuridade,Distimia,0.0771
+176537768482136,6,5,Desenvolvimento neurobiológico atrasado,Distimia,0.0785
+176537768515547,5,3,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768478853,8,3,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768568353,6,2,Altas Habilidades / Superdotação,Isolamento Social,0.1031
+176537768518033,5,1,TEA,Distimia,0.0779
+176537768540077,5,2,Dislexia,Problemas de Autoestima,0.1416
+176537768529122,34,3,Prematuridade,Distimia,0.0774
+176537768483229,3,1,Desenvolvimento neurobiológico atrasado,Distimia,0.0784
+176537768538674,3,3,Desenvolvimento neurobiológico atrasado,Distimia,0.0777
+176537768492086,1,5,Desenvolvimento neurobiológico atrasado,Depressao,0.0942
+176537768542381,4,5,TEA,Distimia,0.0819
+176537768571255,19,1,Prematuridade,Depressao,0.0846
+176537768507058,14,1,Síndrome de Kinnefelter,Depressao,0.078
+176537768540455,5,5,TEA,Distimia,0.0901
+176537768501558,1,4,Síndrome de Dawn,Ansiedade Generalizada,0.0769
+176537768538389,34,2,Prematuridade,Depressao,0.0781
+176537768539261,1,1,Desenvolvimento neurobiológico atrasado,Distimia,0.0778
+176537768548296,1,3,TEA,Ansiedade Generalizada,0.112
+176537768538393,1,3,Síndrome de Dawn,Ansiedade Generalizada,0.0769
+176537768567914,4,3,Dislexia,Problemas de Autoestima,0.1416
+176537768565205,20,4,Síndrome de Kinnefelter,Depressao,0.0772
+176537768507229,10,1,Síndrome de Kinnefelter,Distimia,0.0974
+176537768520719,6,4,TEA,Ansiedade Generalizada,0.1217
+176537768491256,22,2,Síndrome de Kinnefelter,Depressao,0.1023
+176537768559602,6,1,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768496080,4,1,TEA,Distimia,0.1038
+176537768568794,6,4,TEA,Ansiedade Generalizada,0.1082
+176537768569567,9,5,Síndrome de Kinnefelter,Distimia,0.0802
+176537768504769,1,3,Síndrome de Dawn,Ansiedade Generalizada,0.0769
+176537768507063,25,5,Prematuridade,Distimia,0.077
+176537768573611,20,3,Síndrome de Kinnefelter,Depressao,0.1156
+176537768488646,23,3,Baixo Peso ao Nascer,Depressao,0.0769
+176537768492005,2,5,TEA,Ansiedade Generalizada,0.1244
+176537768518756,25,1,Síndrome de Kinnefelter,Depressao,0.0806
+176537768516670,27,4,Baixo Peso ao Nascer,Distimia,0.0769
+176537768521586,14,1,Prematuridade,Distimia,0.0822
+176537768520013,1,1,Síndrome de Williams-Beuren,Distimia,0.0769
+176537768499785,2,3,Desenvolvimento neurobiológico atrasado,Distimia,0.0777
+176537768492287,33,1,Baixo Peso ao Nascer,Distimia,0.0769
+176537768577558,12,1,Síndrome de Williams-Beuren,Depressao,0.0769
+176537768524335,7,5,TDAH,Distimia,0.0787
+176537768522868,7,4,Dislexia,Problemas de Autoestima,0.1189
+176537768525773,8,4,TDAH,Distimia,0.0831
+176537768562626,5,3,Dislexia,Problemas de Autoestima,0.1327
+176537768493159,1,5,Desenvolvimento neurobiológico atrasado,Distimia,0.0775
+176537768524357,1,1,Síndrome de Dawn,Ansiedade Generalizada,0.0769
+176537768513628,2,3,TDAH,Ansiedade Generalizada,0.1256
+176537768569266,6,3,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768557203,14,3,Prematuridade,Distimia,0.081
+176537768569741,4,3,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768508460,1,4,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768538814,2,4,TEA,Distimia,0.086
+176537768494788,7,4,TDAH,Ansiedade Generalizada,0.1416
+176537768520553,20,4,Síndrome de Kinnefelter,Depressao,0.1042
+176537768484793,10,5,Baixo Peso ao Nascer,Distimia,0.0769
+176537768577713,11,5,Síndrome de Kinnefelter,Depressao,0.1242
+176537768513384,7,1,Prematuridade,Depressao,0.0822
+176537768518050,1,4,Desenvolvimento neurobiológico atrasado,Distimia,0.0773
+176537768538088,26,3,Síndrome de Kinnefelter,Depressao,0.0925
+176537768560802,1,5,Prematuridade,Distimia,0.0777
+176537768529934,9,4,Dislexia,Problemas de Autoestima,0.1355
+176537768562443,13,5,Baixo Peso ao Nascer,Distimia,0.0769
+176537768580919,5,5,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768521865,2,2,Desenvolvimento neurobiológico atrasado,Depressao,0.094
+176537768492634,8,2,Dislexia,Problemas de Autoestima,0.1397
+176537768555813,1,4,Síndrome de Dawn,Distimia,0.0769
+176537768507489,17,4,Síndrome de Kinnefelter,Depressao,0.1251
+176537768543167,12,3,Prematuridade,Depressao,0.112
+176537768572970,1,4,Síndrome de Williams-Beuren,Distimia,0.0769
+176537768513063,33,5,Prematuridade,Distimia,0.0778
+176537768502174,4,3,Dislexia,Problemas de Autoestima,0.1209
+176537768571014,19,2,Síndrome de Kinnefelter,Depressao,0.1156
+176537768501045,2,5,Prematuridade,Depressao,0.0783
+176537768494383,12,4,Síndrome de Kinnefelter,Depressao,0.1238
+176537768525311,1,3,Desenvolvimento neurobiológico atrasado,Depressao,0.084
+176537768502943,14,3,Prematuridade,Depressao,0.124
+176537768577708,31,2,Prematuridade,Distimia,0.0782
+176537768581176,1,2,Síndrome de Dawn,Ansiedade Generalizada,0.0769
+176537768493893,27,5,Baixo Peso ao Nascer,Distimia,0.0769
+176537768539479,13,3,Síndrome de Kinnefelter,Depressao,0.0973
+176537768526494,2,4,TDAH,Ansiedade Generalizada,0.1197
+176537768541102,6,4,Altas Habilidades / Superdotação,Distimia,0.0839
+176537768515963,7,5,Dislexia,Problemas de Autoestima,0.1416
+176537768550687,1,5,TEA,Ansiedade Generalizada,0.1271
+176537768508978,2,3,Desenvolvimento neurobiológico atrasado,Depressao,0.0918
+176537768497493,1,1,Dislexia,Problemas de Autoestima,0.1371
+176537768534245,1,4,Desenvolvimento neurobiológico atrasado,Depressao,0.0835
+176537768535253,4,2,TDAH,Distimia,0.0814
+176537768568767,8,4,Prematuridade,Distimia,0.0783
+176537768508976,1,5,Dislexia,Problemas de Autoestima,0.1147
+176537768531750,14,1,Dislexia,Problemas de Autoestima,0.1029
+176537768505147,1,4,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768489150,4,3,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768518178,1,4,TEA,Ansiedade Generalizada,0.1233
+176537768573410,1,2,Desenvolvimento neurobiológico atrasado,Distimia,0.077
+176537768570804,15,3,Síndrome de Kinnefelter,Distimia,0.0942
+176537768520375,1,4,TEA,Ansiedade Generalizada,0.1228
+176537768573069,7,5,Altas Habilidades / Superdotação,Distimia,0.0878
+176537768561374,10,2,Dislexia,Problemas de Autoestima,0.1133
+176537768548203,1,2,TEA,Ansiedade Generalizada,0.088
+176537768527513,1,2,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768550719,7,4,Dislexia,Problemas de Autoestima,0.1416
+176537768566150,20,3,Prematuridade,Distimia,0.0777
+176537768532685,1,4,TEA,Distimia,0.0888
+176537768578292,1,5,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768509219,13,1,TDAH,Ansiedade Generalizada,0.1416
+176537768486865,1,2,Síndrome de Dawn,Ansiedade Generalizada,0.0769
+176537768514388,13,3,Prematuridade,Distimia,0.078
+176537768485867,3,2,Baixo Peso ao Nascer,Distimia,0.0769
+176537768504862,17,1,Baixo Peso ao Nascer,Distimia,0.0769
+176537768581056,2,2,TDAH,Ansiedade Generalizada,0.0787
+176537768497991,1,4,Desenvolvimento neurobiológico atrasado,Distimia,0.0771
+176537768577597,1,2,Síndrome de Dawn,Ansiedade Generalizada,0.0769
+176537768505590,25,3,Prematuridade,Distimia,0.0773
+176537768503167,1,3,Desenvolvimento neurobiológico atrasado,Distimia,0.0776
+176537768567153,2,5,Desenvolvimento neurobiológico atrasado,Depressao,0.0783
+176537768507479,1,2,Síndrome de Dawn,Ansiedade Generalizada,0.0769
+176537768581382,1,1,Baixo Peso ao Nascer,Distimia,0.0769
+176537768561388,12,2,TDAH,Distimia,0.0823
+176537768581725,31,4,Prematuridade,Distimia,0.077
+176537768540843,4,5,Prematuridade,Distimia,0.0771
+176537768523710,30,4,Prematuridade,Depressao,0.0861
+176537768578874,1,2,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768536107,1,4,Síndrome de Dawn,Distimia,0.0769
+176537768573294,7,3,TDAH,Ansiedade Generalizada,0.1416
+176537768567704,1,1,Desenvolvimento neurobiológico atrasado,Depressao,0.0903
+176537768489875,19,5,Prematuridade,Distimia,0.0771
+176537768575389,3,3,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768562971,4,4,Altas Habilidades / Superdotação,Distimia,0.0791
+176537768508754,8,2,Dislexia,Problemas de Autoestima,0.0952
+176537768523949,24,5,Prematuridade,Depressao,0.0791
+176537768581338,2,1,TEA,Ansiedade Generalizada,0.0884
+176537768554119,1,1,Desenvolvimento neurobiológico atrasado,Depressao,0.0804
+176537768485446,1,4,Desenvolvimento neurobiológico atrasado,Depressao,0.0794
+176537768564653,13,2,Altas Habilidades / Superdotação,Distimia,0.0824
+176537768486659,7,1,TDAH,Ansiedade Generalizada,0.1131
+176537768576519,1,4,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768518761,9,4,Prematuridade,Distimia,0.0825
+176537768487767,1,4,Síndrome de Dawn,Ansiedade Generalizada,0.0769
+176537768514477,1,5,TEA,Distimia,0.0896
+176537768556475,5,5,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768528088,1,5,Síndrome de Dawn,Ansiedade Generalizada,0.0769
+176537768579802,8,4,Altas Habilidades / Superdotação,Isolamento Social,0.1043
+176537768513943,22,3,Prematuridade,Distimia,0.0784
+176537768560578,1,2,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768514182,3,1,Desenvolvimento neurobiológico atrasado,Depressao,0.08
+176537768492579,2,1,TEA,Ansiedade Generalizada,0.1044
+176537768577356,1,2,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768489282,19,4,Baixo Peso ao Nascer,Distimia,0.0769
+176537768512232,1,4,TDAH,Ansiedade Generalizada,0.1416
+176537768582518,1,3,TEA,Ansiedade Generalizada,0.1257
+176537768486753,2,1,TEA,Ansiedade Generalizada,0.1055
+176537768526764,1,4,Desenvolvimento neurobiológico atrasado,Distimia,0.0772
+176537768504561,1,3,Desenvolvimento neurobiológico atrasado,Depressao,0.0873
+176537768539044,9,4,Síndrome de Williams-Beuren,Depressao,0.0769
+176537768544053,10,2,Dislexia,Problemas de Autoestima,0.1302
+176537768576005,1,4,Síndrome de Dawn,Ansiedade Generalizada,0.0769
+176537768537413,18,3,Síndrome de Kinnefelter,Depressao,0.1094
+176537768492300,5,1,TEA,Ansiedade Generalizada,0.1178
+176537768584251,1,2,TEA,Ansiedade Generalizada,0.1253
+176537768571580,5,3,TDAH,Ansiedade Generalizada,0.1416
+176537768566456,12,3,Dislexia,Problemas de Autoestima,0.1376
+176537768571338,13,1,Dislexia,Problemas de Autoestima,0.1155
+176537768572711,3,4,TDAH,Ansiedade Generalizada,0.1416
+176537768574165,10,3,Baixo Peso ao Nascer,Distimia,0.0769
+176537768557197,22,2,Síndrome de Kinnefelter,Depressao,0.0986
+176537768491193,1,1,Síndrome de Dawn,Ansiedade Generalizada,0.0769
+176537768500409,6,1,Desenvolvimento neurobiológico atrasado,Distimia,0.0792
+176537768553446,8,1,TDAH,Ansiedade Generalizada,0.1311
+176537768546906,10,1,Síndrome de Williams-Beuren,Depressao,0.0769
+176537768523884,8,3,Dislexia,Problemas de Autoestima,0.1416
+176537768486754,1,3,Desenvolvimento neurobiológico atrasado,Distimia,0.0775
+176537768540217,7,4,Dislexia,Problemas de Autoestima,0.1097
+176537768576700,6,5,TDAH,Distimia,0.0832
+176537768541649,3,4,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768582852,1,3,Síndrome de Dawn,Ansiedade Generalizada,0.0769
+176537768534595,19,3,Síndrome de Kinnefelter,Depressao,0.1236
+176537768578272,1,2,Desenvolvimento neurobiológico atrasado,Depressao,0.0863
+176537768533112,1,2,Desenvolvimento neurobiológico atrasado,Depressao,0.0839
+176537768524921,12,5,Síndrome de Kinnefelter,Distimia,0.0877
+176537768557405,3,1,Desenvolvimento neurobiológico atrasado,Depressao,0.0896
+176537768548859,1,4,TEA,Ansiedade Generalizada,0.1276
+176537768560606,1,3,TEA,Ansiedade Generalizada,0.1112
+176537768577476,1,5,Desenvolvimento neurobiológico atrasado,Distimia,0.0776
+176537768545322,1,3,Síndrome de Dawn,Ansiedade Generalizada,0.0769
+176537768544626,1,3,TEA,Ansiedade Generalizada,0.1245
+176537768578823,10,1,Síndrome de Kinnefelter,Distimia,0.0802
+176537768572242,1,4,Desenvolvimento neurobiológico atrasado,Depressao,0.0821
+176537768565465,1,4,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768532483,10,4,TDAH,Ansiedade Generalizada,0.1416
+176537768582940,1,4,Desenvolvimento neurobiológico atrasado,Depressao,0.0856
+176537768555069,21,3,Baixo Peso ao Nascer,Distimia,0.0769
+176537768526061,1,5,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768585939,2,5,Desenvolvimento neurobiológico atrasado,Distimia,0.0771
+176537768536430,1,2,Síndrome de Dawn,Ansiedade Generalizada,0.0769
+176537768534691,5,3,TDAH,Ansiedade Generalizada,0.1416
+176537768551542,16,5,Baixo Peso ao Nascer,Depressao,0.0769
+176537768488785,7,4,TDAH,Ansiedade Generalizada,0.1416
+176537768487401,1,4,Síndrome de Dawn,Ansiedade Generalizada,0.0769
+176537768488126,1,1,Desenvolvimento neurobiológico atrasado,Depressao,0.0783
+176537768575348,6,4,Dislexia,Problemas de Autoestima,0.0907
+176537768547983,18,3,Síndrome de Kinnefelter,Depressao,0.1196
+176537768524753,31,3,Síndrome de Kinnefelter,Depressao,0.093
+176537768515822,3,4,TDAH,Ansiedade Generalizada,0.1416
+176537768516379,1,5,TEA,Ansiedade Generalizada,0.1269
+176537768495981,1,5,Desenvolvimento neurobiológico atrasado,Depressao,0.0887
+176537768538369,8,5,Síndrome de Kinnefelter,Isolamento Social,0.1131
+176537768585445,12,1,Baixo Peso ao Nascer,Distimia,0.0769
+176537768540441,12,2,TDAH,Ansiedade Generalizada,0.1364
+176537768531729,4,3,TEA,Ansiedade Generalizada,0.1252
+176537768502645,2,4,Desenvolvimento neurobiológico atrasado,Distimia,0.077
+176537768520765,6,4,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768522756,1,2,TEA,Distimia,0.0877
+176537768500556,11,1,Síndrome de Kinnefelter,Isolamento Social,0.123
+176537768530198,1,5,TEA,Ansiedade Generalizada,0.1256
+176537768526070,1,4,Desenvolvimento neurobiológico atrasado,Distimia,0.0775
+176537768563652,10,1,Síndrome de Kinnefelter,Depressao,0.1242
+176537768548529,1,4,Síndrome de Dawn,Ansiedade Generalizada,0.0769
+176537768520187,8,2,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768506966,9,2,TDAH,Distimia,0.0827
+176537768549565,1,2,Síndrome de Dawn,Ansiedade Generalizada,0.0769
+176537768572563,29,5,Prematuridade,Distimia,0.0777
+176537768529497,3,4,Desenvolvimento neurobiológico atrasado,Depressao,0.0776
+176537768489914,1,4,Síndrome de Dawn,Ansiedade Generalizada,0.0769
+176537768564550,1,5,TDAH,Ansiedade Generalizada,0.1261
+176537768510427,1,4,Desenvolvimento neurobiológico atrasado,Depressao,0.0799
+176537768495797,12,3,Dislexia,Problemas de Autoestima,0.1027
+176537768542311,3,4,TEA,Ansiedade Generalizada,0.1275
+176537768527796,3,5,Desenvolvimento neurobiológico atrasado,Distimia,0.077
+176537768508291,3,2,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768565599,14,5,Síndrome de Kinnefelter,Distimia,0.0794
+176537768560244,4,3,Síndrome de Williams-Beuren,Distimia,0.0769
+176537768570412,7,5,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768579565,7,2,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768492652,1,3,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768585090,10,5,Dislexia,Problemas de Autoestima,0.141
+176537768546876,1,1,TEA,Ansiedade Generalizada,0.1256
+176537768537206,3,5,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768525858,10,3,TDAH,Ansiedade Generalizada,0.1416
+176537768576082,2,2,Altas Habilidades / Superdotação,Distimia,0.0774
+176537768569395,3,5,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768522157,3,3,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768510873,5,2,Dislexia,Distimia,0.0775
+176537768498529,3,3,TDAH,Distimia,0.0821
+176537768569441,3,4,TDAH,Distimia,0.0823
+176537768532852,3,5,TDAH,Ansiedade Generalizada,0.1416
+176537768516123,5,2,Prematuridade,Distimia,0.0786
+176537768518321,3,5,Desenvolvimento neurobiológico atrasado,Depressao,0.0852
+176537768526281,30,3,Prematuridade,Distimia,0.0774
+176537768543610,20,5,Baixo Peso ao Nascer,Distimia,0.0769
+176537768548090,8,2,Baixo Peso ao Nascer,Distimia,0.0769
+176537768565155,1,4,TEA,Distimia,0.0898
+176537768528998,3,4,Desenvolvimento neurobiológico atrasado,Distimia,0.0781
+176537768541822,7,1,TDAH,Ansiedade Generalizada,0.1311
+176537768587357,34,2,Prematuridade,Distimia,0.0772
+176537768562085,10,5,TDAH,Distimia,0.0832
+176537768581012,1,1,TEA,Ansiedade Generalizada,0.1247
+176537768581293,9,2,TDAH,Ansiedade Generalizada,0.1416
+176537768569462,5,4,TDAH,Ansiedade Generalizada,0.1411
+176537768509819,33,5,Prematuridade,Depressao,0.0802
+176537768499147,5,3,TEA,Distimia,0.0876
+176537768563870,30,3,Prematuridade,Depressao,0.0835
+176537768491384,2,2,TEA,Ansiedade Generalizada,0.1261
+176537768493910,1,2,Síndrome de Dawn,Ansiedade Generalizada,0.0769
+176537768528712,7,1,Dislexia,Problemas de Autoestima,0.1338
+176537768552212,12,5,Baixo Peso ao Nascer,Distimia,0.0769
+176537768563963,1,3,Síndrome de Dawn,Ansiedade Generalizada,0.0769
+176537768574113,2,4,Desenvolvimento neurobiológico atrasado,Depressao,0.0843
+176537768573139,11,2,Dislexia,Distimia,0.0779
+176537768541458,10,2,TDAH,Distimia,0.077
+176537768560248,1,4,TEA,Ansiedade Generalizada,0.1252
+176537768489498,1,5,Síndrome de Dawn,Ansiedade Generalizada,0.0769
+176537768537169,7,3,Desenvolvimento neurobiológico atrasado,Distimia,0.0772
+176537768579161,29,2,Baixo Peso ao Nascer,Depressao,0.0769
+176537768538700,6,2,TDAH,Ansiedade Generalizada,0.1416
+176537768577825,8,1,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768552760,5,5,Altas Habilidades / Superdotação,Distimia,0.077
+176537768588716,7,4,Síndrome de Kinnefelter,Depressao,0.1242
+176537768575709,21,2,Baixo Peso ao Nascer,Distimia,0.0769
+176537768535755,5,1,TEA,Ansiedade Generalizada,0.1236
+176537768533860,1,2,Síndrome de Dawn,Distimia,0.0769
+176537768541106,11,4,Dislexia,Problemas de Autoestima,0.1075
+176537768516653,2,5,Desenvolvimento neurobiológico atrasado,Distimia,0.0771
+176537768498399,2,5,Baixo Peso ao Nascer,Distimia,0.0769
+176537768522942,3,1,Síndrome de Kinnefelter,Isolamento Social,0.1207
+176537768525258,5,3,Dislexia,Problemas de Autoestima,0.1341
+176537768503381,27,2,Baixo Peso ao Nascer,Distimia,0.0769
+176537768530404,2,3,TDAH,Ansiedade Generalizada,0.1324
+176537768575590,3,1,Desenvolvimento neurobiológico atrasado,Depressao,0.0774
+176537768547145,1,3,Desenvolvimento neurobiológico atrasado,Depressao,0.0892
+176537768532278,4,1,TDAH,Distimia,0.0832
+176537768558512,2,2,Desenvolvimento neurobiológico atrasado,Distimia,0.077
+176537768533792,12,5,Prematuridade,Depressao,0.1276
+176537768565069,4,4,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768580045,29,3,Prematuridade,Distimia,0.0774
+176537768500228,35,2,Baixo Peso ao Nascer,Depressao,0.0769
+176537768552454,1,5,Desenvolvimento neurobiológico atrasado,Depressao,0.0801
+176537768565697,6,3,TDAH,Ansiedade Generalizada,0.1416
+176537768512684,5,1,TEA,Distimia,0.0992
+176537768534780,17,3,Prematuridade,Depressao,0.08
+176537768537171,1,4,Desenvolvimento neurobiológico atrasado,Depressao,0.0931
+176537768563201,1,5,TEA,Distimia,0.0915
+176537768545469,28,1,Prematuridade,Distimia,0.0775
+176537768507566,2,1,Desenvolvimento neurobiológico atrasado,Depressao,0.0789
+176537768544790,31,2,Baixo Peso ao Nascer,Distimia,0.0769
+176537768511598,9,4,TDAH,Distimia,0.0832
+176537768525022,33,1,Prematuridade,Distimia,0.0774
+176537768571185,27,1,Prematuridade,Depressao,0.0825
+176537768580974,10,4,Altas Habilidades / Superdotação,Distimia,0.0994
+176537768550549,9,3,Altas Habilidades / Superdotação,Isolamento Social,0.0797
+176537768520562,4,5,Desenvolvimento neurobiológico atrasado,Distimia,0.0779
+176537768581652,1,4,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768589660,23,3,Prematuridade,Distimia,0.0772
+176537768518126,3,1,Desenvolvimento neurobiológico atrasado,Distimia,0.0772
+176537768521761,19,4,Síndrome de Kinnefelter,Depressao,0.1104
+176537768519662,3,5,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768581508,2,4,TEA,Ansiedade Generalizada,0.1279
+176537768580233,1,5,Desenvolvimento neurobiológico atrasado,Distimia,0.077
+176537768493752,1,2,Síndrome de Dawn,Ansiedade Generalizada,0.0769
+176537768572041,7,1,TEA,Depressao,0.117
+176537768530510,9,4,Síndrome de Williams-Beuren,Depressao,0.0769
+176537768541799,12,1,Síndrome de Kinnefelter,Depressao,0.1242
+176537768521592,19,5,Síndrome de Kinnefelter,Depressao,0.1025
+176537768567120,1,3,Síndrome de Dawn,Ansiedade Generalizada,0.0769
+176537768530134,5,3,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768495983,13,2,Altas Habilidades / Superdotação,Distimia,0.0911
+176537768512791,14,1,Prematuridade,Depressao,0.1344
+176537768505266,29,4,Baixo Peso ao Nascer,Depressao,0.0769
+176537768544802,1,2,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768527985,1,1,Desenvolvimento neurobiológico atrasado,Depressao,0.0803
+176537768572010,3,3,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
+176537768548621,4,1,Dislexia,Problemas de Autoestima,0.1205
+176537768529079,7,5,TEA,Distimia,0.086
+176537768587087,16,2,Prematuridade,Distimia,0.0799
+176537768531754,6,1,Dislexia,Problemas de Autoestima,0.1306
+176537768502013,5,4,Altas Habilidades / Superdotação,Isolamento Social,0.1108
+176537768558394,11,5,Prematuridade,Distimia,0.0828
+176537768494780,1,3,Síndrome de Dawn,Ansiedade Generalizada,0.0769
+176537768515044,3,3,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.0769
