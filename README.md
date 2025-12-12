@@ -1,1 +1,3 @@
-# An-lise-Sobre-o-Uso-de-rvores-Probabil-sticas-na-Sa-de-Mental-Preventiva.
+Modelagem Preditiva de Comorbidades em Saude
+Mental: Uma Abordagem via Redes Bayesianas e
+Carga Alost´ atica
