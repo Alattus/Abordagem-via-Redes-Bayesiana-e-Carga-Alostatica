@@ -2,6 +2,10 @@ Modelagem Preditiva de Comorbidades em Saude
 Mental: Uma Abordagem via Redes Bayesianas e
 Carga Alostatica
 [README.md](https://github.com/user-attachments/files/24135993/README.md)
+
+Leia o artigo completo [aqui](https://github.com/Alattus/AnaliseSobreUsoArvoresProbabilisticasnaSaudeMentalPreditiva./blob/main/main/Modelagem%20Preditiva%20de%20Comorbidades%20em%20Saude.pdf).
+
+
 # Modelagem Preditiva de Comorbidades em Saúde Mental (MR-P)
 
 Este repositório contém a implementação computacional do algoritmo de Mapeamento de Risco Preditivo (MR-P).  
